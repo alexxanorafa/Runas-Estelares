@@ -25,127 +25,127 @@
     });
 
     const runas = [
-        { 
-            symbol: "🌠", 
-            title: "Yggdrasil Cósmico", 
-            meaning: "A Árvore do Mundo em sua versão estelar. Representa a conexão entre todos os reinos cósmicos e a teia quântica que une as galáxias. Combina a sabedoria de Odin com a física dos buracos de minhoca."
-        },
-        { 
-            symbol: "🜂", 
-            title: "Fênix de Sagitário", 
-            meaning: "Fogo zodiacal transformador. Relacionada ao centro galáctico e à renovação cíclica. Combina mitos egípcios com astrofísica de supernovas."
-        },
-        { 
-            symbol: "✡🌌", 
-            title: "Merkaba Estelar", 
-            meaning: "Veículo de luz que conecta dimensões. Geometria sagrada do tetraedro estrelado fundida com energia de quasares. Canalização arcturiana."
-        },
-        { 
-            symbol: "𓏇", 
-            title: "Olho de Orión", 
-            meaning: "Sabedoria ancestral das pirâmides alinhadas com o cinturão de Orion. Conexão com civilizações estelares e memória cósmica."
-        },
-        { 
-            symbol: "ꙮ", 
-            title: "Mandalas Galácticas", 
-            meaning: "Padrões fractais que regem a formação de sistemas estelares. Meditação na estrutura quântica da realidade."
-        },
-        { 
-            symbol: "⚳", 
-            title: "Ceres Divina", 
-            meaning: "Asteroide da nutrição cósmica. Combina a deusa romana com a astrologia moderna, representando sustentabilidade universal."
-        },
-        { 
-            symbol: "☥🌀", 
-            title: "Ankh Quântico", 
-            meaning: "Cruz ansata egípcia fusionada com vórtice energético. Simboliza o fluxo interdimensional de energia vital."
-        },
-        { 
-            symbol: "ꕔ⚛", 
-            title: "Supernova Atômica", 
-            meaning: "União da fusão nuclear estelar com a estrutura atômica terrestre. Representa transformação radical em nível subatômico."
-        },
-        { 
-            symbol: "♆⛢", 
-            title: "Duplo Netuno", 
-            meaning: "Planetas transpessoais em ressonância. Combina astrologia esotérica com astronomia moderna (Netuno e Urano)."
-        },
-        { 
-            symbol: "𓋹💫", 
-            title: "Ankh Sideral", 
-            meaning: "Vida eterna em escala cósmica. Ciclos de morte e renascimento estelar segundo a mitologia nórdica-egípcia."
-        },
-        { 
-            symbol: "⚶", 
-            title: "Asteria Cósmica", 
-            meaning: "Deusa grega das estrelas fundida com a energia de asteroides. Representa mensagens celestes em meteoritos."
-        },
-        { 
-            symbol: "⌬🌐", 
-            title: "Hiper-Rede Cósmica", 
-            meaning: "Conexões intergalácticas na estrutura cristalina do universo. Geometria molecular sagrada."
-        },
-        { 
-            symbol: "♇☄", 
-            title: "Plutão Transformador", 
-            meaning: "Planeta anão como portal de reinvenção. Combina mitologia do submundo com cometas mensageiros."
-        },
-        { 
-            symbol: "𓆣🌀", 
-            title: "Escaravelho Galáctico", 
-            meaning: "Símbolo egípcio de renovação em movimento espiral. Representa a Via Láctea como roda kármica."
-        },
-        { 
-            symbol: "☉♒", 
-            title: "Sol em Aquário", 
-            meaning: "Era aquariana em escala cósmica. Combina astrologia tropical com astronomia do Sistema Solar."
-        },
-        { 
-            symbol: "꩜", 
-            title: "Vórtice de Sirius", 
-            meaning: "Conexão com a estrela Sírius e civilizações estelares. Portal dimensional ativado por sons ressonantes."
-        },
-        { 
-            symbol: "⚸", 
-            title: "Lilith Lunar", 
-            meaning: "Ponto oculto da órbita lunar. Representa o feminino cósmico e a sombra estelar."
-        },
-        { 
-            symbol: "♃♇", 
-            title: "Júpiter-Plutão", 
-            meaning: "Conjunção de expansão e poder transformador. Ciclos cósmicos de destruição criativa."
-        },
-        { 
-            symbol: "𒀭", 
-            title: "Anu Celeste", 
-            meaning: "Deus sumério do firmamento. Representa a abóboda celeste como consciência cósmica."
-        },
-        { 
-            symbol: "Ꝏ⃝", 
-            title: "Ouroboros Estelar", 
-            meaning: "Serpente cósmica devorando a própria cauda. Ciclos infinitos em escala multigaláctica."
-        },
-        { 
-            symbol: "𒄈", 
-            title: "Dragão Quântico", 
-            meaning: "Mitologia chinesa fusionada com teoria das cordas. Guardião das dimensões paralelas."
-        },
-        { 
-            symbol: "☿⚕", 
-            title: "Mercúrio Alquímico", 
-            meaning: "Mensageiro divino em chave astroquímica. Comunicação interstelar e cura energética."
-        },
-        { 
-            symbol: "♄⛓", 
-            title: "Saturno Cármico", 
-            meaning: "Anéis como ciclos de aprendizado. Lei cósmica e estrutura universal."
-        },
-        { 
-            symbol: "☽⚸☾", 
-            title: "Tríade Lunar", 
-            meaning: "Fases da lua como espiral evolutiva. Triplicidade divina em escala galáctica."
-        }
-    ];    
+    { 
+        symbol: "🌠", 
+        title: "Yggdrasil Cósmico", 
+        meaning: `A Axis Mundi das mitologias nórdica e xamânica elevada à escala universal. Representa a interligação quântica entre todos os seres através do espaço-tempo. Na filosofia hermética, manifesta o princípio «Como é em cima, é em baixo», unindo microcosmo e macrocosmo. Simboliza a jornada do herói através dos nove mundos cósmicos, onde cada galáxia é um fruto na árvore da existência.`
+    },
+    { 
+        symbol: "🜂", 
+        title: "Fénix de Sagitário", 
+        meaning: `Arquétipo da morte alquímica e renascimento estelar. Na tradição helenística, associa-se ao mito de Fénix e ao fogo purificador de Heráclito. Na astrofísica moderna, representa os ciclos de morte e renascimento estelar, onde supernovas semeiam os elementos da vida. Convida à transmutação das cinzas do passado em combustível para a evolução espiritual.`
+    },
+    { 
+        symbol: "✡🌌", 
+        title: "Merkaba Estelar", 
+        meaning: `Veículo de ascensão da cabala hermética reinterpretado pela física multidimensional. A geometria sagrada do tetraedro estrelado simboliza a união do masculino (▲) e feminino (▼) cósmicos. Na cosmovisão platónica, representa a forma perfeita que transcende a caverna da percepção material. Ferramenta para navegar o oceano de Higgs e acessar planos suprafísicos.`
+    },
+    { 
+        symbol: "𓏇", 
+        title: "Olho de Órion", 
+        meaning: `O arquétipo da visão divina, desde o Udjat egípcio até à pineal cartesiana. Representa o alinhamento ancestral entre as pirâmides de Gizé e o cinturão de Órion, símbolo da busca perene pelo conhecimento perdido de Atlântida. Na filosofia, encarna o ideal socrático «Conhece-te a ti mesmo» projetado em escala galáctica.`
+    },
+    { 
+        symbol: "ꙮ", 
+        title: "Mandalas Galácticas", 
+        meaning: `Expressão visual do eterno retorno nietzschiano em padrões fractais. Cada espiral contém a semente do universo holográfico, onde o todo existe em cada parte. Meditação nestes padrões revela a música das esferas de Pitágoras traduzida em geometria sagrada. Ferramenta para compreender a coincidentia oppositorum de Nicolau de Cusa.`
+    },
+    { 
+        symbol: "⚳", 
+        title: "Ceres Divina", 
+        meaning: `Síntese entre a deusa romana da agricultura e os asteroides do cinturão principal. Simboliza o princípio feminino criador na escala cósmica, a Deméter cósmica que nutre sistemas estelares. Na ecologia profunda, representa a necessidade de equilíbrio entre progresso e sustentabilidade universal, ecoando o conceito de Gaia de Lovelock.`
+    },
+    { 
+        symbol: "☥🌀", 
+        title: "Ankh Quântico", 
+        meaning: `Fusão do símbolo egípcio da vida eterna com os vórtices energéticos. Representa o fluxo contínuo entre os mundos manifestado e imanifestado, a dança de Shiva na visão tântrica aplicada à física de partículas. Na prática, ensina a arte de manipular o éter (akasha) através da intenção focalizada.`
+    },
+    { 
+        symbol: "ꕔ⚛", 
+        title: "Supernova Atómica", 
+        meaning: `Paradoxo cósmico que une destruição estelar e criação de elementos vitais. Na alquimia moderna, simboliza a capacidade de transformar crises pessoais em oportunidades de crescimento radical. Reflete o conceito hegeliano de dialética (tese-antítese-síntese) operando em escala cósmica.`
+    },
+    { 
+        symbol: "♆⛢", 
+        title: "Duplo Neptuno", 
+        meaning: `Casamento entre o planeta das ilusões (Neptuno) e o revolucionário (Urano). Representa a tensão criativa entre sonho e realidade, inspiração e rebelião. Na psicologia junguiana, simboliza a integração da sombra cósmica através da dança entre Eros e Thanatos.`
+    },
+    { 
+        symbol: "𓋹💫", 
+        title: "Ankh Sideral", 
+        meaning: `Ciclos vitais elevados à imensidão cósmica. Combina o conceito egípcio de renascimento com a teoria dos multiversos. Na filosofia existencial, questiona: «O que é a eternidade para uma estrela?» Convida à compreensão do tempo não-linear e à superação do medo da morte através da consciência cósmica.`
+    },
+    { 
+        symbol: "⚶", 
+        title: "Asteria Cósmica", 
+        meaning: `Manifestação da deusa grega dos oráculos estelares em corpos celestes. Simboliza a comunicação interdimensional através de meteoritos portadores de mensagens cósmicas. Na prática divinatória, associa-se à arte de ler sinais do universo, como propunha Carl Jung na sincronicidade.`
+    },
+    { 
+        symbol: "⌬🌐", 
+        title: "Hiper-Rede Cósmica", 
+        meaning: `Estrutura cristalina do universo comparável à internet galáctica. Representa a teoria do campo unificado buscado por Einstein e a rede de Indra da mitologia budista. Na sociologia cósmica, questiona: «Como seria uma civilização tipo III na escala de Kardashev?»`
+    },
+    { 
+        symbol: "♇☄", 
+        title: "Plutão Transformador", 
+        meaning: `Senhor do submundo como agente de metamorfose cósmica. Simboliza os processos alquímicos de putrefação e sublimação em escala planetária. Na astrologia esotérica, representa a morte do ego e o renascimento do self cósmico, à luz da psicologia transpessoal.`
+    },
+    { 
+        symbol: "𓆣🌀", 
+        title: "Escaravelho Galáctico", 
+        meaning: `O Khepri egípcio reinventado como motor de criação galáctica. Representa o movimento espiral que une o micro (DNA) ao macro (braços galácticos). Na filosofia processual de Whitehead, simboliza a criatividade cósmica em constante devir.`
+    },
+    { 
+        symbol: "☉♒", 
+        title: "Sol em Aquário", 
+        meaning: `Símbolo da era de Aquário reinterpretado através da heliofísica. Representa a fusão entre tecnologia espiritual e consciência coletiva. Na ética cósmica, questiona: «Como equilibrar progresso técnico e sabedoria perene na escala de civilizações estelares?»`
+    },
+    { 
+        symbol: "꩜", 
+        title: "Vórtice de Sírius", 
+        meaning: `Portal dimensional para o sistema estelar reverenciado pelos dogon e egípcios. Simboliza a busca pelo conhecimento oculto além do véu de Ísis. Na epistemologia cósmica, representa a tensão entre mistério e revelação na jornada do conhecimento.`
+    },
+    { 
+        symbol: "⚸", 
+        title: "Lilith Lunar", 
+        meaning: `Arquétipo do feminino rebelde na sombra lunar. Representa a face oculta da psique coletiva e os aspectos reprimidos da natureza feminina. Na mitologia comparada, une Inanna suméria, Hécate grega e Kali hindu na dança cósmica do devir.`
+    },
+    { 
+        symbol: "♃♇", 
+        title: "Júpiter-Plutão", 
+        meaning: `Conjunção entre expansão e transformação radical. Simboliza os ciclos históricos de ascensão e queda de impérios em escala cósmica. Na filosofia política, questiona: «Que estruturas sociais sobreviveriam à prova de eras galácticas?»`
+    },
+    { 
+        symbol: "𒀭", 
+        title: "Anu Celeste", 
+        meaning: `O princípio primordial da cosmogonia suméria reinterpretado. Representa a consciência cósmica impessoal que transcende deuses antropomórficos. Na teologia negativa, aproxima-se do Ein Sof cabalístico ou do Brahman vedanta.`
+    },
+    { 
+        symbol: "Ꝏ⃝", 
+        title: "Ouroboros Estelar", 
+        meaning: `Símbolo alquímico da eternidade projetado em escala multigaláctica. Representa a teoria do universo oscilante e os ciclos de Maha Kalpa na cosmologia hindu. Na física quântica, relaciona-se com o conceito de tempo imaginário de Hawking.`
+    },
+    { 
+        symbol: "𒄈", 
+        title: "Dragão Quântico", 
+        meaning: `Fusão da mitologia chinesa com a teoria das supercordas. Guardião das dimensões compactadas na escala de Planck. Na psicologia arquetípica, representa os monstros do inconsciente coletivo que guardam tesouros de sabedoria.`
+    },
+    { 
+        symbol: "☿⚕", 
+        title: "Mercúrio Alquímico", 
+        meaning: `O mensageiro divino como mediador entre ciência e espiritualidade. Simboliza a união entre hermetismo renascentista e física quântica. Na comunicação cósmica, representa a busca por linguagens universais capazes de transcender civilizações.`
+    },
+    { 
+        symbol: "♄⛓", 
+        title: "Saturno Cármico", 
+        meaning: `Senhor do tempo como tecelão dos destinos cósmicos. Representa a lei de causa e efeito operando em escala universal. Na ética cósmica, questiona: «Que valores morais resistiriam ao teste da eternidade?»`
+    },
+    { 
+        symbol: "☽⚸☾", 
+        title: "Tríade Lunar", 
+        meaning: `As três faces de Hécate como fases da evolução cósmica. Simboliza o ciclo eterno: nascimento (crescente), plenitude (cheia) e dissolução (minguante). Na filosofia processual, representa a dialética cósmica de criação-preservação-destruição.`
+    }
+];    
 
 
 function sortearRunas() {
